@@ -1,0 +1,39 @@
+.navbar-brand {
+  max-width: 90px;
+}
+#item1 {
+  background-image: url(../img/pic1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 75vh;
+}
+#item2 {
+  background-image: url(../img/pic2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 75vh;
+}
+#item3 {
+  background-image: url(../img/pic3.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 75vh;
+}
+#item4 {
+  background-image: url(../img/pic4.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 75vh;
+}
+#item5 {
+  background-image: url(../img/pic5.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 75vh;
+}
+#item6 {
+  background-image: url(../img/pic6.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 75vh;
+}
